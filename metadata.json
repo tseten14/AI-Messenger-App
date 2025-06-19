@@ -1,0 +1,6 @@
+
+{
+  "name": "Sherpa Messenger",
+  "description": "A sleek, frontend-only messenger application featuring an AI chat assistant powered by the Gemini API. Experience modern chat UI and interact with an intelligent bot. This is a frontend simulation and does not include backend or database components of a full MERN stack.",
+  "requestFramePermissions": []
+}
